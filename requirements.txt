@@ -1,6 +1,4 @@
 jinja2
 urllib3
 requests
-random
 json
-os
